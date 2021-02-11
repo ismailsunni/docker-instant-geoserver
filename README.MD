@@ -25,3 +25,5 @@ Another project, [MapFish Print](https://github.com/mapfish/mapfish-print), has 
    ```
    make geoserver-down
    ```
+## License
+Since I copied the data from [MapFish Print](https://github.com/mapfish/mapfish-print), the license should be the same (at least for the data)
