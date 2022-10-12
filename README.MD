@@ -14,6 +14,12 @@ Another project, [MapFish Print](https://github.com/mapfish/mapfish-print), has 
 2. Accessing the GeoServer:
 
    [http://localhost:8080](http://localhost:8080)
+   
+   You can log in by using geoserver default account and password.
+   ```
+   Username: admin
+   Password: geoserver
+   ```
 
 3. Accessing the WMS and WFS (e.g. on QGIS):
    ```
